@@ -1,2 +1,3 @@
-# demo-cohort12
-This is a demo project for c12 LLS on git &amp; github
+This is a demo project for c12 LLS on git & github
+Shows how to push
+
